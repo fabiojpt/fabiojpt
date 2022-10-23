@@ -1,4 +1,4 @@
-# Olá, sou o Fábio Pantoja 👋#
+# Olá, sou o Fábio Pantoja 👋
 
 <!--
 **fabiojpt/fabiojpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
